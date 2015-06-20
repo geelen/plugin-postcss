@@ -1,7 +1,6 @@
 # plugin-postcss
 
-### Note: this is deprecated.
-### Superseded by https://github.com/geelen/jspm-loader-css
+### Note: this is deprecated.<br/>Superseded by https://github.com/geelen/jspm-loader-css
 
 This **was** sort of meta-plugin for JSPM. Since [PostCSS](https://github.com/postcss/postcss) will let you use any combination of mixins, you need to wire up that combination somewhere.
 
